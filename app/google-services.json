@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11461518581",
+    "firebase_url": "https://etalim-b4c57.firebaseio.com",
+    "project_id": "etalim-b4c57",
+    "storage_bucket": "etalim-b4c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11461518581:android:37280ca9f6f894975b51bc",
+        "android_client_info": {
+          "package_name": "com.example.e_talim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11461518581-gsv56imq98p06p7u8tpcbpo9naep6qbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_talim",
+            "certificate_hash": "74eb0e1849cd83fbfb40f935956a16d4019f458b"
+          }
+        },
+        {
+          "client_id": "11461518581-6un6votohlerrnvh6f09vf2sr3ic06pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxenmlvto5LW6lE8ZLu88kx43BJsxXZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11461518581-6un6votohlerrnvh6f09vf2sr3ic06pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

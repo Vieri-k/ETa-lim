@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#97A7B3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="TextColor">#000000</color>
+    <color name="HomeButton">#79FFB7</color>
+    <color name="Buttonclick">#63D698</color>
+    <color name="LoginTextColor">#076633</color>
+</resources>

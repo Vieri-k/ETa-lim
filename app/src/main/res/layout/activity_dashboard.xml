@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dashboard"
+    android:background="@drawable/wallpaperbghome"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#7fff">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:paddingTop="15dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Choose"
+                android:textSize="35dp"
+                android:gravity="center"
+                android:fontFamily="cursive"
+                android:textColor="@color/TextColor"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="what you want"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:fontFamily="cursive"
+                android:textColor="@color/TextColor"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="30dp"
+                android:text="to learn"
+                android:textSize="40dp"
+                android:gravity="center"
+                android:fontFamily="cursive"
+                android:textColor="@color/TextColor"/>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:onClick="bounce"
+                android:shadowColor="#00000000"
+                android:text="Tuntunan Shalat"
+                android:textColor="@color/TextColor" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:onClick="bounce1"
+                android:shadowColor="#00000000"
+                android:text="Iqra"
+                android:textColor="@color/TextColor" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:onClick="bounce2"
+                android:shadowColor="#00000000"
+                android:text="Qiraatul Qur'an"
+                android:textColor="@color/TextColor" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:onClick="bounce3"
+                android:shadowColor="#00000000"
+                android:text="Tajwid"
+                android:textColor="@color/TextColor" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

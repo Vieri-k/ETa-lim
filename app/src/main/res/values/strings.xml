@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">E-Ta\'lim</string>
+    <string name="IdzhaHalqi_p1">
+        Manakala nun sukun [نْ] atau tanwin [ُ ٌَُ ِ ] bertemu pada salah satu huruf halqi yang terbagi menjadi enam yaitu :
+    </string>
+    <string name="IdzharHalqi_p2">
+        خ غ ع ح خ ه أ
+    </string>
+    <string name="IdzharHalqi_p3">
+        Cara membacanya harus dibaca dengan terang dan jelas sebab bertemunya huruf halqi
+    </string>
+    <string name="IdzharHalqi_p4">
+        مَنْ آ مَنَ , مِنْهُ , غَفُوْ رٌ حَلِيْمٌ , سَمِيْعٌ عَلِيْمٌ
+    </string>
+    <string name="IdzharHalqi_p5">
+        Izh-har artinya : menerangkan atau menjelaskan
+        Halqi : Kerongkongan
+    </string>
+    <string name="IdzharHalqi_p6">
+        Huruf enam itu disebut halqi, karena makhrajnya atau
+        tempat keluar suara dari mulut, ada pada kerongkongan
+        atau tenggorokan.
+    </string>
+</resources>
